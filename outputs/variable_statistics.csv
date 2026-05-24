@@ -1,0 +1,15 @@
+variable,n_steps,mean,std,min,max,nan_pct
+aridity_coldest-quarter,7,0.609,0.0122,0.5921,0.6254,0.0
+aridity_warmest-quarter,7,0.6784,0.0127,0.6619,0.7016,0.0
+cloud-cover_monthly-mean,84,0.5184,0.0291,0.4348,0.5753,0.0
+evaporative-fraction_coldest-quarter,7,0.5259,0.0048,0.5193,0.5331,0.0
+evaporative-fraction_warmest-quarter,7,0.4309,0.0053,0.425,0.4382,0.0
+potential-evaporation_coldest-quarter,7,0.0,0.0,0.0,0.0,0.0
+potential-evaporation_warmest-quarter,7,0.0,0.0,0.0,0.0,0.0
+surface-latent-heat-flux_coldest-quarter,7,59.8704,1.9617,57.3431,62.8949,0.0
+surface-latent-heat-flux_warmest-quarter,7,55.99,1.2813,54.0353,57.8648,0.0
+surface-sensible-heat-flux_coldest-quarter,7,31.2709,0.2768,30.8485,31.7477,0.0
+surface-sensible-heat-flux_warmest-quarter,7,56.8309,1.6512,55.0232,59.5406,0.0
+temperature_monthly-mean,84,299.9696,2.7361,294.4967,305.8003,0.0
+water-vapor-pressure_monthly-mean,84,1120.9323,201.628,832.1539,1551.8881,0.0
+wind-speed_monthly-mean,84,3.1045,0.0963,2.9215,3.3431,0.0

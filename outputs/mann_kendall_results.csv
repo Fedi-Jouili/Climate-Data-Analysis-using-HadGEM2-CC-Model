@@ -1,0 +1,15 @@
+variable,trend,p_value,tau,sen_slope,significant
+aridity_coldest-quarter,DECREASING,0.0355,-0.7143,-0.006107,True
+aridity_warmest-quarter,NO TREND,0.2296,0.4286,0.003635,False
+cloud-cover_monthly-mean,DECREASING,0.0069,-0.9048,-0.002393,True
+evaporative-fraction_coldest-quarter,NO TREND,0.0715,0.619,0.002427,False
+evaporative-fraction_warmest-quarter,NO TREND,1.0,-0.0476,-0.000125,False
+potential-evaporation_coldest-quarter,INCREASING,0.0069,0.9048,0.0,True
+potential-evaporation_warmest-quarter,INCREASING,0.0027,1.0,0.0,True
+surface-latent-heat-flux_coldest-quarter,INCREASING,0.0069,0.9048,1.080823,True
+surface-latent-heat-flux_warmest-quarter,NO TREND,0.0715,0.619,0.575826,False
+surface-sensible-heat-flux_coldest-quarter,NO TREND,0.0715,0.619,0.120936,False
+surface-sensible-heat-flux_warmest-quarter,INCREASING,0.0163,0.8095,0.903464,True
+temperature_monthly-mean,INCREASING,0.0027,1.0,1.09212,True
+water-vapor-pressure_monthly-mean,INCREASING,0.0027,1.0,93.611985,True
+wind-speed_monthly-mean,NO TREND,1.0,0.0476,0.000407,False
